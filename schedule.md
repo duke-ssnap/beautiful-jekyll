@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Schedule
+subtitle: ""
 ---
-Neuroscientists are to attend the seminars on philosophy, and philosophers are to attend the seminars on neuroscience. Lectures and Keynotes will be attended by the whole group simultaneously. If an unavoidable conflict prohibits your ability to attend a seminar or lecture, we strongly encourage watching it on your own ([recordings here]({{ site.baseurl }}{% link zoom_recordings.md %})).
+Neuroscientists are to attend the seminars on philosophy, and philosophers are to attend the seminars on neuroscience. Lectures and Keynotes will be attended by the whole group simultaneously. If an unavoidable conflict prohibits your ability to attend a seminar or lecture, we strongly encourage watching it on your own time ([recordings here]({{ site.baseurl }}{% link zoom_recordings.md %})).
 
 We also made a [Google Calendar](#google-calendar) version of the schedule. It displays the schedule in your local timezone, contains links to all of events, and can be added to your personal Google Calendar by clicking on the plus sign on the bottom right.
 

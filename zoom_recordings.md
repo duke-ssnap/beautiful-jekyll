@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zoom recordings
-subtitle:
+subtitle: ""
 ---
 
 
