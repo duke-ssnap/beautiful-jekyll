@@ -14,11 +14,17 @@ author:
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Schedule: "schedule"
+  Contact:
+    - Fellows: "contact_fellow"
+    - Speakers: "contact_speaker"
+    - Organizers: "contact_organizer"
+    - Slack Workspace: "https://ssnap.slack.com"
+  User Guides: "user_guides"
+  Seminar recordings: "zoom_recordings"
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
 
 # --- Logo --- #
 
