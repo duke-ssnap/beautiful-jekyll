@@ -106,4 +106,9 @@ Jump to: [Week One](#week-one) \| [Week Two](#week-two) \| [Week Three](#week-th
 
 ---
 ### Google Calendar
-<iframe src="https://calendar.google.com/calendar/embed?src=nvbmadcfm17kfjnl4029ai9iqg%40group.calendar.google.com&ctz=America%2FNew_York;mode=AGENDA" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<div id="calendar-container"></div>
+<script type="text/javascript">
+const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone
+const html = `<iframe src="https://calendar.google.com/calendar/embed?mode=agenda&src=bnZibWFkY2ZtMTdrZmpubDQwMjlhaTlpcWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp&ctz=${timezone}" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>`
+document.getElementById('calendar-container').innerHTML = html;
+</script>
