@@ -106,4 +106,4 @@ Jump to: [Week One](#week-one) \| [Week Two](#week-two) \| [Week Three](#week-th
 
 ---
 ### Google Calendar
-<iframe src="https://calendar.google.com/calendar/embed?src=nvbmadcfm17kfjnl4029ai9iqg%40group.calendar.google.com&ctz=America%2FNew_York;color=%23B39DDB&amp;mode=AGENDA" style="border-width:0" width="800" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=bnZibWFkY2ZtMTdrZmpubDQwMjlhaTlpcWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23B39DDB&amp;showPrint=1&amp;title=SSNAP%202021&amp;mode=AGENDA" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
