@@ -134,7 +134,7 @@ Perhaps there's someone specific you want to talk to? Make sure to read the sect
 <img src="../assets/img/gather_fullscreen.png" width=750 class="center">
 
 
-And now you have some semblance of a normal conversation! Shoutout to my mom and sister for being good sports and helping me out with this :)
+And now you have some semblance of a normal conversation! Shoutout to my mom and sister for helping me out with this :)
 
 To re-minimize the videos, just click on the arrows to the right that I've highlighted in red. The larger the size of your group, the smaller each individual video window will be when you maximize the videos. If your group is especially large, Gather will do something similar to Zoom -- it will create "pages" of videos that you can arrow through, instead of trying to fit everyone's video onto the screen at once.
 
