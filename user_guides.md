@@ -96,7 +96,7 @@ The first time you open a Crowdcast link, you will be prompted to make an accoun
 ## Gather
 ***Gather is not compatible with Safari and only works on a desktop/laptop (no tablets or mobile).***
 
-Jump to: [Navigating to a specific person](#navigating-to-a-specific-person) \| [Toolbar options](#toolbar-options) \|  [Chat](#using-the-chat)  \| [Getting started](#getting-started)
+Jump to: [Navigating to a specific person](#navigating-to-a-specific-person) \| [Toolbar options](#toolbar-options) \|  [Chat](#using-the-chat)  
 
 Gather is the dynamic meeting space we will use for larger social hours (i.e., any with an anticipated attendance > 30 people). On Gather, you are an avatar and you navigate the space using arrow keys. Your personal video appears in the bottom right of the screen, and the audio & video of other avatars in your proximity will appear at the top of your screen.
 
@@ -187,17 +187,6 @@ Right above the `Participants` icon is a `Chat` icon. Clicking on this will disp
 - `Malak` (or any other name) will send a direct message to the person whose name you select
 
 You can also send someone a direct message by typing in the `Message...` field that pops up when you click their name on the `Participants` tab. This is probably the easiest way to send a direct message to someone.
-
-<br>
-
-###### Getting started
-If SSNAP will be your first introduction to Gather, you will have some additional steps to go through before you start doing all of the above.
-
-The link will direct you to a page where you specify your name and create the avatar you will use to navigate the space. I would not get hung up on what this looks like, as hardly anyone uses the actual avatars when navigating.
-
-Then you will need to grant Gather permission to use your camera & microphone. On the off chance that you decline access in this step, check out the section on [troubleshooting](#faqs-troubleshooting) to fix that.
-
-After granting access, you will be placed on a remote island that aims to teach you about Gather. If you've read this far into the guide, then you likely don't need the tutorial and you can `Skip` it. But if you want to do it anyway, just follow the steps on screen and after a couple minutes you'll be in the main Gather space.
 
 <br>
 
