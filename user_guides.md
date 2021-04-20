@@ -34,7 +34,8 @@ I go into more detail on how to use the different platforms below. But here are 
 ## Zoom
 Zoom is a video chat platform that has become ubiquitous during the pandemic. Best practices include:
 - muting your microphone while you are not speaking
-- using the "Raise Hand" feature (on the bottom toolbar, click on Reactions > Raise Hand) when you want to ask a question
+- using the `Raise Hand` feature (on the bottom toolbar, click on `Reactions` > `Raise Hand`) when you want to ask a question
+- using the `Lower Hand` feature (in the same location as `Raise Hand`) after your question has been answered
 
 During the seminars especially, we encourage use of the annotation tool if you wish to make reference to something on the speaker's slides. Brief tutorial on how to use the annotation tool below:
 
