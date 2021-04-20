@@ -13,10 +13,10 @@ subtitle:
 | Anna Ciaunica          | [a.ciaunica@ucl.ac.uk](mailto:a.ciaunica@ucl.ac.uk) | WET | tbd |
 | Daina Crafa            | [daina.crafa@cas.au.dk](mailto:daina.crafa@cas.au.dk)  | CET | Slack |
 | Brian Earp             | [brian.earp@yale.edu](mailto:brian.earp@yale.edu)  | EST | Slack |
-| Lara Krisst            | [lckrisst@ucdavis.edu](mailto:lckrisst@ucdavis.edu)  | PST | tbd |
+| Lara Krisst            | [lckrisst@ucdavis.edu](mailto:lckrisst@ucdavis.edu)  | PST | Slack |
 | Jennifer Lee           | [jenn.laura.lee@gmail.com](mailto:jenn.laura.lee@gmail.com) | EST | tbd |
 | David Lydon-Staley     | [dlsta@seas.upenn.edu](mailto:dlsta@seas.upenn.edu)  | EST | email |
-| Corey Maley            | [cmaley@ku.edu](mailto:cmaley@ku.edu)  | CST | tbd |
+| Corey Maley            | [cmaley@ku.edu](mailto:cmaley@ku.edu)  | CST | Slack |
 | John Medaglia          | [johnmedaglia@gmail.com](mailto:johnmedaglia@gmail.com) | EST | tbd |
 | Adam Safron            | [asafron@iu.edu](mailto:asafron@iu.edu)  | CST | email |
 | Shadab Tabatabaeian    | [stabatabaeian@ucmerced.edu](mailto:stabatabaeian@ucmerced.edu) | PST | email |

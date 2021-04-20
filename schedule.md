@@ -3,7 +3,7 @@ layout: page
 title: Schedule
 subtitle: ""
 ---
-Neuroscientists are to attend the seminars on philosophy, and philosophers are to attend the seminars on neuroscience. Interdisciplinary Exchanges and Keynotes will be attended by the whole group simultaneously. If an unavoidable conflict prohibits your ability to attend a seminar or lecture, we strongly encourage watching it on your own time ([recordings here]({{ site.baseurl }}{% link zoom_recordings.md %})).
+Neuroscientists are to attend the seminars on philosophy, and philosophers are to attend the seminars on neuroscience. Interdisciplinary Exchanges and Conference Addresses will be attended by the whole group simultaneously. If an unavoidable conflict prohibits your ability to attend an event, we strongly encourage watching it on your own time ([recordings here]({{ site.baseurl }}{% link zoom_recordings.md %})).
 
 We also made a [Google Calendar](#google-calendar) version of the schedule. It displays the schedule in your local timezone, contains links to all of events, and can be added to your personal Google Calendar by clicking on the plus sign on the bottom right.
 
@@ -72,35 +72,36 @@ Jump to: [Week One](#week-one) \| [Week Two](#week-two) \| [Week Three](#week-th
 
 ###### Saturday, May 29: Interdisciplinary Exchange -- Dehumanization
   - 12-3pm EST (4-7pm UTC): Lasana Harris & Tamar Gendler [[Zoom](https://duke.zoom.us/s/92015651822)] - *all fellows & Duke community*
-  - 3-4pm EST (7-8pm UTC): social hour [[Kumospace](https://kumospace.com/ssnap2021)] - *all fellows, speakers, and Duke community*
+  - 3-4pm EST (7-8pm UTC): social hour [[Gather]()] - *all fellows, speakers, and Duke community*
 
   <br>
 
 ### Week Three
 <p></p>
 ###### Monday , May 31: Interdisciplinary Exchange -- Attention & Action
+*these details are still being finalized. we might use the same structure as 5/27 to accommodate Memorial Day plans*
   - 12-3pm EST (4-7pm UTC): Liad Mudrik & Wayne Wu [[Zoom](https://duke.zoom.us/s/92015651822)] - *all fellows & Duke community*
-  - 3-4pm EST (7-8pm UTC): social hour [[Kumospace](https://kumospace.com/ssnap2021)] - *all fellows, speakers, and Duke community*
+  - 3-4pm EST (7-8pm UTC): social hour [[Gather]()] - *all fellows, speakers, and Duke community*
 
 ###### Tuesday, June, 1: Interdisciplinary Exchange -- Emotion
   - 12-3pm EST (4-7pm UTC): Kristen Lindquist & Andrea Scarantino [[Zoom](https://duke.zoom.us/s/92015651822)] - *all fellows & Duke community*
-  - 3-4pm EST (7-8pm UTC): social hour [[Kumospace](https://kumospace.com/ssnap2021)] - *all fellows, speakers, and Duke community*
+  - 3-4pm EST (7-8pm UTC): social hour [[Gather]()] - *all fellows, speakers, and Duke community*
 
 ###### Wednesday, June 2: Interdisciplinary Exchange -- Perceptual Representation
   - 12-3pm EST (4-7pm UTC): Michael Tarr & Susana Schellenberg [[Zoom](https://duke.zoom.us/s/92015651822)] - *all fellows & Duke community*
-  - 3-4pm EST (7-8pm UTC): social hour [[Kumospace](https://kumospace.com/ssnap2021)] - *all fellows, speakers, and Duke community*
+  - 3-4pm EST (7-8pm UTC): social hour [[Gather]()] - *all fellows, speakers, and Duke community*
 
 ###### Thursday, June 3: Interdisciplinary Exchange -- Computation & the Brain
   - 12-3pm EST (4-7pm UTC): Uri Hasson & Gualtiero Piccinini [[Zoom](https://duke.zoom.us/s/92015651822)] - *all fellows & Duke community*
-  - 3-4pm EST (7-8pm UTC): social hour [[Kumospace](https://kumospace.com/ssnap2021)] - *all fellows, speakers, and Duke community*
+  - 3-4pm EST (7-8pm UTC): social hour [[Gather]()] - *all fellows, speakers, and Duke community*
 
-###### Friday, June 4: Closing Conference Keynotes
+###### Friday, June 4: Closing Conference Addresses
   - 12-3pm EST (4-7pm UTC): Jackie Sullivan, Morgan Barense, Bill Bechtel [[Crowdcast]()] - *open to the public*
-  - 3-4pm EST (7-8pm UTC): social hour [[Gather](https://gather.town/i/kiOT3RLu)] - *open to Keynote attendees*
+  - 3-4pm EST (7-8pm UTC): social hour [[Gather]()] - *open to conference attendees*
 
-###### Saturday, June 5: Closing Conference Keynotes
+###### Saturday, June 5: Closing Conference Addresses
   - 12-3pm EST (4-7pm UTC): Lucia Melloni, David Rosenthal, Paul Bloom [[Crowdcast]()] - *open to the public*
-  - 3-4pm EST (7-8pm UTC): social hour [[Gather](https://gather.town/i/kiOT3RLu)] - *open to Keynote attendees*
+  - 3-4pm EST (7-8pm UTC): social hour [[Gather]()] - *open to conference attendees*
 
 <br>
 

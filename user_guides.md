@@ -55,7 +55,11 @@ When you launch [Kumospace](https://kumospace.com/ssnap2021){:target="_blank"} f
 
 After logging in, you will be shown a preview of your video over a yellow button that says `Join`. Clicking this button will lead you to the equivalent of a hallway, wherein you get an overview of the different rooms we have in the SSNAP Kumospace. Underneath each room is a number indicating how many individuals are in the room. As you might infer from the `30` in the denominator, rooms are capped at 30 individuals. **You can only speak with users who are in the same room as you, and you can only see who is in a room once you enter it**.
 
-To get a birds-eye view of who is in a room, click on the `People` icon on the bottom left. To navigate to someone in the room, click on the `Map` icon in the bottom right, locate their initials on the map, and navigate to that location. Especially in the early days when you are still learning the layout of the spaces, I recommend keeping the `Map` up while you are navigating to help orient yourself. If, after entering a room, you wish to see who is in the other room(s), you simply have to navigate to & click on the `Exit` button and you will be returned to the "hallway" page that gives the overview of the rooms.
+- To get a birds-eye view of who is in a room, click on the `People` icon on the bottom left.
+- To navigate to someone in the room, click on the `Map` icon in the bottom right, locate their initials on the map, and navigate to that location.
+  - Especially in the early days when you are still learning the layout of the spaces, I recommend keeping the `Map` up while you are navigating to help orient yourself.
+
+If, after entering a room, you wish to see who is in the other room(s), you simply have to navigate to & click on the `Exit` button and you will be returned to the "hallway" page that gives the overview of the rooms.
 
 I usually like to use Kumospace in its most zoomed-out view. If you also do this, it's possible that when you enter a new room the view will be slightly zoomed in, but will appear as though it is zoomed totally out. Clicking once on the zoom-in (`+`) button should fix this glitch.
 
@@ -63,9 +67,23 @@ Per my suggestions [above](#general-tips-for-dynamic-meeting-spaces), don't ling
 
 <img src="../assets/img/kumo_maria.png" width=750 align=center>
 
-If you wish to remove this, or to toggle other audiovisual things, click on the `Settings` icon in the toolbar.
+If you wish to remove this, or to toggle other audiovisual things, click on the `Settings` icon in the toolbar. Some settings you might wish to toggle:
+- `Play sound when someone enters room`: unchecking this will turn off the periodic doorbell sounds
+- `Show range indicator`: unchecking this will remove the halo
 
 The halo is helpful when you are starting out, and it can also explain why someone's audio is low. ***If someone is at the extreme of your range, their audio will be quieter***. So if you want to hear someone better, move closer to them (just like you would in real life!). Likewise with objects -- if you want to decrease (or remove) background music coming from pianos, jukeboxes, etc., move farther away from them.
+
+You can safely ignore the other buttons. But in case you're curious, here's what they do:
+- `Chat` allows you to send direct messages. It defaults to sending to the whole room, but you can toggle this by clicking on `Current Room` above the `Enter message` field and selecting who you wish to send the mesage to:
+
+<img src="../assets/img/kumo_chat.png" width=200 class='center'>
+
+- `Camera` turns your camera on/off
+- `Microphone` does the same with your mic
+- `Broadcast` shares your video with the whole room
+- `Screenshare` is self-explanatory
+
+
 
 <br>
 
@@ -95,6 +113,8 @@ The first time you open a Crowdcast link, you will be prompted to make an accoun
 
 ## Gather
 ***Gather is not compatible with Safari and only works on a desktop/laptop (no tablets or mobile).***
+
+*The space depicted in these screenshots might be different from the actual space we use for the meeting, but the principles hold across all Gather spaces.*
 
 Jump to: [Navigating to a specific person](#navigating-to-a-specific-person) \| [Toolbar options](#toolbar-options) \|  [Chat](#using-the-chat)  
 
