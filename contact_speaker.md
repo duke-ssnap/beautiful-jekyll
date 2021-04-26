@@ -16,7 +16,7 @@ subtitle:
 | Jana Schaich Borg      | [janaschaichborg@gmail.com](mailto:janaschaichborg@gmail.com) | EST | email |
 | Christian Miller       | [millerc@wfu.edu](mailto:millerc@wfu.edu)  | EST | email |
 | Marty Woldorff         | [woldorff@duke.edu](mailto:woldorff@duke.edu)  | EST | email |
-| Ram Neta               | [neta@email.unc.edu](mailto:neta@email.unc.edu)  | EST | email |
+| Ben Eva               | [benjamin.eva@duke.edu](mailto:benjamin.eva@duke.edu)  | EST | email |
 | Scott Huettel           | [scott.huettel@duke.edu](mailto:scott.huettel@duke.edu) | EST | email |
 | Katherine Brading     | [katherine.brading@duke.edu](mailto:katherine.brading@duke.edu)  | EST | email |
 | Greg Appelbaum            | [greg@duke.edu](mailto:greg@duke.edu)  | EST | email |

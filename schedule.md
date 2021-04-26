@@ -44,7 +44,7 @@ Jump to: [Week One](#week-one) \| [Week Two](#week-two) \| [Week Three](#week-th
 ###### Monday, May 24
   - 11am-12pm EDT (3-4pm UTC): social hour [[Kumospace](https://kumospace.com/ssnap2021)] - *fellows & organizers only*
   - 12-3pm EDT (4-7pm UTC): EEG – Marty Woldorff [[Zoom](https://duke.zoom.us/s/92015651822)] - *philosophy fellows*
-  - 12-3pm EDT (4-7pm UTC): Epistemology – Ram Neta [[Zoom](https://duke.zoom.us/s/92015651822)] - *neuroscience fellows*
+  - 12-3pm EDT (4-7pm UTC): Epistemology – Ben Eva [[Zoom](https://duke.zoom.us/s/92015651822)] - *neuroscience fellows*
   - 3-4pm EDT (7-8pm UTC): social hour [[Kumospace](https://kumospace.com/ssnap2021)] - *all fellows, professors, and organizers*
 
 ###### Tuesday, May 25
