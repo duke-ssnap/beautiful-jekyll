@@ -79,7 +79,7 @@ Jump to: [Week One](#week-one) \| [Week Two](#week-two) \| [Week Three](#week-th
 ### Week Three
 <p></p>
 ###### Monday , May 31: Interdisciplinary Exchange -- Attention & Consciousness
-  - ***11am-2pm*** EDT (4-7pm UTC): Liad Mudrik & Wayne Wu [[Zoom](https://duke.zoom.us/s/92015651822)] - *all fellows & Duke community*
+  - ***11am-2pm*** EDT (***3-6pm UTC***): Liad Mudrik & Wayne Wu [[Zoom](https://duke.zoom.us/s/92015651822)] - *all fellows & Duke community*
 
 ###### Tuesday, June, 1: Interdisciplinary Exchange -- Emotion
   - 11am-12pm EDT (3-4pm UTC): social hour [[Gather]()] - *all fellows, speakers from 5/31, and Duke community*
