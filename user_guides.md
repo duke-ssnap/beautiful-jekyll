@@ -6,7 +6,7 @@ subtitle: ""
 
 *If you read one thing on this page, please let it be the very first section on [dynamic meeting spaces](#general-tips-for-dynamic-meeting-spaces). These small tips will make a huge difference if implemented by everyone in the meeting! The next most important reading is the section on [Gather](#gather), which can be daunting at first. If anything is unclear or you have further questions, please don't hesitate to [get in touch with Maria]({{ site.baseurl }}{% link contact_organizer.md %}).*
 
-Jump to: [Zoom](#zoom) \| [Kumospace](#kumospace) \| [Crowdcast](#crowdcast) \| [Gather](#gather) \| [FAQs & Troubleshooting](#troubleshooting)
+Jump to: [Zoom](#zoom) \| [Kumospace](#kumospace) \| [Crowdcast](#crowdcast) \| [Gather](#gather) \| [FAQs & Troubleshooting](#faqs--troubleshooting)
 
 <br>
 
