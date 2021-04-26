@@ -17,7 +17,7 @@ Jump to: [Week One](#week-one) \| [Week Two](#week-two) \| [Week Three](#week-th
 
 ###### Wednesday, May 19
   - 11am-12pm EDT (3-4pm UTC): social hour [[Kumospace](https://kumospace.com/ssnap2021)] - *fellows & organizers only*
-  - 12-3pm EDT (4-7pm UTC): Neurobiology - Anne WEDT [[Zoom](https://duke.zoom.us/s/92015651822)] - *philosophy fellows*
+  - 12-3pm EDT (4-7pm UTC): Neurobiology - Anne West [[Zoom](https://duke.zoom.us/s/92015651822)] - *philosophy fellows*
   - 12-3pm EDT (4-7pm UTC): Philosophical Method – Marc Lange [[Zoom](https://duke.zoom.us/s/92015651822)] - *neuroscience fellows*
   - 3-4pm EDT (7-8pm UTC): social hour [[Kumospace](https://kumospace.com/ssnap2021)] - *all fellows, professors, and organizers*
 
@@ -78,7 +78,7 @@ Jump to: [Week One](#week-one) \| [Week Two](#week-two) \| [Week Three](#week-th
 
 ### Week Three
 <p></p>
-###### Monday , May 31: Interdisciplinary Exchange -- Attention & Action
+###### Monday , May 31: Interdisciplinary Exchange -- Attention & Consciousness
   - ***11am-2pm*** EDT (4-7pm UTC): Liad Mudrik & Wayne Wu [[Zoom](https://duke.zoom.us/s/92015651822)] - *all fellows & Duke community*
 
 ###### Tuesday, June, 1: Interdisciplinary Exchange -- Emotion
