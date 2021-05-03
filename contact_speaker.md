@@ -45,7 +45,7 @@ subtitle:
 | Michael Tarr     | [michaeltarr@cmu.edu](mailto:michaeltarr@cmu.edu)  | EST | email |
 | Uri Hasson            | [hasson@princeton.edu](mailto:hasson@princeton.edu)  | EST | email |
 | Gualtiero Piccinini          | [piccininig@umsl.edu](mailto:piccininig@umsl.edu) | CST | email |
-| Bill Bechtel            | [wbechtel@ucsd.edu](mailto:wbechtel@ucsd.edu)  | PST | email |
+| William Bechtel            | [wbechtel@ucsd.edu](mailto:wbechtel@ucsd.edu)  | PST | email |
 | Morgan Barense    | [morgan.barense@utoronto.ca](mailto:morgan.barense@utoronto.ca) | EST | email |
 | David Rosenthal       | [davidrosenthal1@gmail.com](mailto:davidrosenthal1@gmail.com)  | EST | email |
 | Lucia Melloni          | [lucia.melloni@ae.mpg.de](mailto:lucia.melloni@ae.mpg.de)  | CET | email |

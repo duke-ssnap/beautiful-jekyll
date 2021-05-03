@@ -95,7 +95,7 @@ Jump to: [Week One](#week-one) \| [Week Two](#week-two) \| [Week Three](#week-th
   - 3-4pm EDT (7-8pm UTC): social hour [[Gather]()] - *all fellows, speakers, and Duke community*
 
 ###### Friday, June 4: Closing Conference Addresses
-  - 12-3pm EDT (4-7pm UTC): Morgan Barense, Jackie Sullivan, Bill Bechtel [[Crowdcast]()] - *open to the public*
+  - 12-3pm EDT (4-7pm UTC): Morgan Barense, Jackie Sullivan, William Bechtel [[Crowdcast]()] - *open to the public*
   - 3-4pm EDT (7-8pm UTC): social hour [[Gather]()] - *open to conference attendees*
 
 ###### Saturday, June 5: Closing Conference Addresses
