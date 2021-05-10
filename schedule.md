@@ -90,7 +90,7 @@ Jump to: [Week One](#week-one) \| [Week Two](#week-two) \| [Week Three](#week-th
 
 ###### Wednesday, June 2: Interdisciplinary Exchange -- Perceptual Representation
   - 11am-12pm EDT (3-4pm UTC): Office hours [[Kumospace](https://kumospace.com/ssnap2021)] - *fellows & organizers*
-  - 12-3pm EDT (4-7pm UTC): Michael Tarr & Susana Schellenberg [[Zoom](https://duke.zoom.us/s/92015651822)] - *all fellows & Duke community*
+  - 12-3pm EDT (4-7pm UTC): Bradford Mahon & Susana Schellenberg [[Zoom](https://duke.zoom.us/s/92015651822)] - *all fellows & Duke community*
   - 3-4pm EDT (7-8pm UTC): social hour [[Gather]()] - *open to talk attendees*
 
 ###### Thursday, June 3: Interdisciplinary Exchange -- Computation & the Brain

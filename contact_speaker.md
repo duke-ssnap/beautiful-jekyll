@@ -42,7 +42,7 @@ subtitle:
 | Kristen Lindquist    | [kristen.lindquist@unc.edu](mailto:kristen.lindquist@unc.edu)  | EST | email |
 | Andrea Scarantino     | [ascarantino@gsu.edu](mailto:ascarantino@gsu.edu)  | EST | email |
 | Susanna Schellenberg   | [susanna.schellenberg@icloud.com](mailto:susanna.schellenberg@icloud.com) | EST | email |
-| Michael Tarr     | [michaeltarr@cmu.edu](mailto:michaeltarr@cmu.edu)  | EST | email |
+| Bradford Mahon     | [bmahon@andrew.cmu.edu](mailto:bmahon@andrew.cmu.edu)  | EST | email |
 | Uri Hasson            | [hasson@princeton.edu](mailto:hasson@princeton.edu)  | EST | email |
 | Gualtiero Piccinini          | [piccininig@umsl.edu](mailto:piccininig@umsl.edu) | CST | email |
 | William Bechtel            | [wbechtel@ucsd.edu](mailto:wbechtel@ucsd.edu)  | PST | email |
