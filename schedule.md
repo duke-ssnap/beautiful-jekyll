@@ -51,7 +51,7 @@ Jump to: [Week One](#week-one) \| [Week Two](#week-two) \| [Week Three](#week-th
 ###### Tuesday, May 25
   - 11am-12pm EDT (3-4pm UTC): Office hours [[Kumospace](https://kumospace.com/ssnap2021)] - *fellows & organizers*
   - 12-3pm EDT (4-7pm UTC): fMRI – Scott Huettel [[Zoom](https://duke.zoom.us/s/92015651822)] - *philosophy fellows*
-  - 12-3pm EDT (4-7pm UTC): Philosophy of science: Katherine Brading [[Zoom](https://duke.zoom.us/s/92015651822)] - *neuroscience fellows*
+  - 12-3pm EDT (4-7pm UTC): Philosophy of Science - Katherine Brading [[Zoom](https://duke.zoom.us/s/92015651822)] - *neuroscience fellows*
   - 3-4pm EDT (7-8pm UTC): social hour [[Kumospace](https://kumospace.com/ssnap2021)] - *all fellows, professors, & organizers*
 
 ###### Wednesday, May 26
