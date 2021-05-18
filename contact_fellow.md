@@ -14,7 +14,7 @@ subtitle:
 | Daina Crafa            | [daina.crafa@cas.au.dk](mailto:daina.crafa@cas.au.dk)  | CET | Slack |
 | Brian Earp             | [brian.earp@yale.edu](mailto:brian.earp@yale.edu)  | EST | Slack |
 | Raphael Gerraty        | [rgerraty@gmail.com ](mailto:rgerraty@gmail.com)  | EST | email |
-| Lara Krisst            | [lckrisst@ucdavis.edu](mailto:lckrisst@ucdavis.edu)  | PST | Slack |
+| Lara Krisst            | [lckrisst@ucdavis.edu](mailto:lckrisst@ucdavis.edu)  | EST | Slack |
 | Jennifer Lee           | [jenn.laura.lee@gmail.com](mailto:jenn.laura.lee@gmail.com) | EST | tbd |
 | David Lydon-Staley     | [dlsta@seas.upenn.edu](mailto:dlsta@seas.upenn.edu)  | EST | email |
 | Corey Maley            | [cmaley@ku.edu](mailto:cmaley@ku.edu)  | CST | Slack |
