@@ -4,4 +4,4 @@ title: click here!
 subtitle: ""
 ---
 
-<img src="https://duke.box.com/s/afn69yp7mlmuwgv0lod0oj5j3vzy2jca" width="500" height="600">
+tada! here shall lie links to recordings of each meeting
