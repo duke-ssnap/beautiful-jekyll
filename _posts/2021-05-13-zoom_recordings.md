@@ -1,7 +1,0 @@
----
-layout: encrypted
-title: Zoom recordings
-subtitle: ""
-
-encrypted: 366aeef1a4cb7d003cc453a672ba95045294130aaf3d870cbb65c145f082ade1U2FsdGVkX1+9t8Y9mxAOSoofwlfJerfCYYHTXjxZENoHi7O8BGGG8r66uatGWE6cbPWsBr4tsvQlDfi3TIiopRQX/EB3N81fDWZRG/ONgYqSJ8LlcfMgVHjZamffAPCz+iNmYEMrY9fta4tU87Cx5iSDhw9OV23UrgCIp+bfG5w=
----
