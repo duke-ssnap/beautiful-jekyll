@@ -7,6 +7,7 @@ subtitle:
 | Name                              | email | Timezone | Contact preference? |
 | -------------------------------------------| -----------      | -----------         |
 | Austin Baker           | [austin.baker@rutgers.edu](mailto:austin.baker@rutgers.edu) | EST | email |
+| Trey Boone             | [treyboone@gmail.com](mailto:treyboone@gmail.com) | EST | email |
 | Nick Byrd              | [nick.a.byrd@gmail.com](mailto:nick.a.byrd@gmail.com)    | EST | email |
 | Fabrizio Calzavarini   | [fabrizio.calzavarini@unibg.it](mailto:fabrizio.calzavarini@unibg.it)   | CET | email |
 | Megha Chawla           | [megha.chawla@yale.edu](mailto:megha.chawla@yale.edu)   | EST | Slack |
