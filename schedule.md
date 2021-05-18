@@ -16,7 +16,7 @@ Jump to: [Week One](#week-one) \| [Week Two](#week-two) \| [Week Three](#week-th
   - 12-2pm EDT (4-6pm UTC): Introductions [[Zoom](https://duke.zoom.us/s/92015651822)] - *all fellows & organizers*
 
 ###### Wednesday, May 19
-  - 11am-12pm EDT (3-4pm UTC): Project planning - Big Questions [[Kumospace](https://kumospace.com/ssnap2021)] - *fellows & organizers*
+  - 11am-12pm EDT (3-4pm UTC): autobiographical scavenger hunt! [[Kumospace](https://kumospace.com/ssnap2021)] - *fellows & organizers*
   - 12-3pm EDT (4-7pm UTC): Neurobiology - Anne West [[Zoom](https://duke.zoom.us/s/92015651822)] - *philosophy fellows*
   - 12-3pm EDT (4-7pm UTC): Philosophical Method – Marc Lange [[Zoom](https://duke.zoom.us/s/92015651822)] - *neuroscience fellows*
   - 3-4pm EDT (7-8pm UTC): social hour [[Kumospace](https://kumospace.com/ssnap2021)] - *all fellows, professors, & organizers*
