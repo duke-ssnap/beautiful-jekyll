@@ -17,7 +17,6 @@ subtitle:
 | Jennifer Lee           | [jenn.laura.lee@gmail.com](mailto:jenn.laura.lee@gmail.com) | EST | tbd |
 | David Lydon-Staley     | [dlsta@seas.upenn.edu](mailto:dlsta@seas.upenn.edu)  | EST | email |
 | Corey Maley            | [cmaley@ku.edu](mailto:cmaley@ku.edu)  | CST | Slack |
-| John Medaglia          | [johnmedaglia@gmail.com](mailto:johnmedaglia@gmail.com) | EST | tbd |
 | Adam Safron            | [asafron1@jhmi.edu](mailto:asafron1@jhmi.edu)  | CST | email |
 | Shadab Tabatabaeian    | [stabatabaeian@ucmerced.edu](mailto:stabatabaeian@ucmerced.edu) | PST | email |
 | Jessica Thompson       | [j.thompson@umontreal.ca](mailto:j.thompson@umontreal.ca)  | EST | tbd |
