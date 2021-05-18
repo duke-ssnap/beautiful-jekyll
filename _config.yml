@@ -98,6 +98,10 @@ feed_show_tags: false
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
 
+# password protection
+# collections:
+#   protected:
+
 # --- Colours / background image --- #
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour

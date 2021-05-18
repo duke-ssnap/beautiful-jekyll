@@ -5,6 +5,7 @@ _site
 
 # general
 .DS_Store
+.RHistory
 Thumbs.db
 ehthumbs.db
 

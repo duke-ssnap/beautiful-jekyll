@@ -63,7 +63,7 @@ Jump to: [Week One](#week-one) \| [Week Two](#week-two) \| [Week Three](#week-th
 ###### Thursday, May 27
   - ***11am-2pm*** EDT (***3-6pm UTC***): Statistical Analysis in Neuroscience – Greg Samanez-Larkin [[Zoom](https://duke.zoom.us/s/92015651822)] - *philosophy fellows*
   - ***11am-2pm*** EDT (***3-6pm UTC***): Metaphysics – David Robb [[Zoom](https://duke.zoom.us/s/92015651822)] - *neuroscience fellows*
-  - 12-1pm EDT (6-7pm UTC): Office hours [[Kumospace](https://kumospace.com/ssnap2021)] - *fellows & organizers*
+  - 2-3pm EDT (6-7pm UTC): Office hours [[Kumospace](https://kumospace.com/ssnap2021)] - *fellows & organizers*
 
 ###### Friday, May 28
   - 11am-12pm EDT (3-4pm UTC): social hour with professors from 5/27 [[Kumospace](https://kumospace.com/ssnap2021)] - *all fellows, organizers, & professors from 5/27*
