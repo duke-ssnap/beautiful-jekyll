@@ -4,4 +4,7 @@ title: click here!
 subtitle: ""
 ---
 
-tada! here shall lie links to recordings of each meeting
+## Week One
+#### Day 1: Introductions
+
+https://youtu.be/q0nA5Qmy7eM
