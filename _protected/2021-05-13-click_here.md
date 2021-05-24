@@ -50,7 +50,9 @@ Sorry the video got cut off! Tried out a compression software and messed around 
 <p style="font-size:25px">
 <a href="../assets/chat/2021-05-20_neuroscience.txt" download="2021-05-20_philosophy.txt">Download chat</a>
 </p>
+
 <br>
+
 
 ### *Logic & Critical Thinking - Jesse Summers*
 
@@ -58,6 +60,8 @@ Sorry the video got cut off! Tried out a compression software and messed around 
 
 <p style="font-size:25px">
 <a href="../assets/chat/2021-05-20_philosophy.txt" download="2021-05-20_philosophy.txt">Download chat</a>
+<br>
+<a href="../assets/slides/2021-05-20_logic.pdf" download="2021-05-20_logic.pdf">Download slides</a>
 </p>
 
 <br>
@@ -110,6 +114,8 @@ So sorry about the choppy video! I tried using a different computer for this ses
 
 <p style="font-size:25px">
 <a href="../assets/chat/2021-05-24_neuroscience.txt" download="2021-05-24_neuroscience.txt">Download chat</a>
+<br>
+<a href="../assets/slides/2021-05-24_EEG.pdf" download="2021-05-24_EEG.pdf">Download slides</a>
 </p>
 
 <br>
