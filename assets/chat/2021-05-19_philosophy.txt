@@ -1,0 +1,22 @@
+12:48:56	 From Jenn Lee : Normative models of behaviour in neuroscience seem to be teleologically flavoured descriptive models!
+12:59:36	 From Adam Safron : Can all normative models be viewed as teleologically-flavored descriptive models?Can categorical imperatives be viewed as special cases of hypothetical imperatives ("If you want a, b, and c, then you ought to do x, y, and z.")?Alternatively, to what extent are we implicitly assuming a kind of quasi-agentic normativity (perhaps inherited from theology, pre-big-religion animism/totemism, and possibly Lakoffian metaphorical bootstrapping off of embodied experiences from early development?) when we talk about things like 'natural' 'laws', or 'causation' (what are the things we think we mean when use the word, "why")?
+13:16:34	 From Raphael Gerraty : On the one hand 'Bayes optimal' seems normative because it implies something about self-consistent inference, right? but on the other hand, without knowing what the generative model is, a lot of things that we might not want to think of as probabilistic are 'Bayes optimal'
+13:19:44	 From Jenn Lee : Idk I don’t think Bayesian models are normative at all in any sense relevant to the normative vs descriptive distinction. Seems to me Bayesian models just serve to describe behaviour, with the implicit teleological flavour that most biological accounts share (your visual system was “designed to” do bayesian inference in the same way your heart was “designed to” pump blood— we describe them in terms of their functional ends)
+13:20:05	 From Jenn Lee : Not sure though!
+13:38:46	 From Adam Safron : Isn't the self just the default mode network? If we call it a network rather than a region, then we're not conflating properties across any levels... Problem solved, right? :)
+14:19:28	 From Adam Safron : Reflective equilibrium as minimizing prediction-error/free-energy via loopy belief propagation over an implicit moral graph?https://en.wikipedia.org/wiki/Moral_graph
+14:38:33	 From Raphael Gerraty : overfitting was my original point, just tried to put it in more classical statistic terms (out of sample prediction for most information criteria; true model selection for Bayesian Information Criteria)
+14:41:49	 From Raphael Gerraty : how does AIC apply to double descent right?
+14:41:56	 From Maria Khoudary : these kinds of “offshoot” convos are what the social hours are for!
+14:43:48	 From Adam Safron : (I want someone to explain double descent to me 'like' I'm a child.)
+14:43:55	 From Adam Safron : https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference
+14:44:52	 From Maria Khoudary : i liked this thread about it https://twitter.com/daniela_witten/status/1292293102103748609
+14:49:46	 From Jessica Thompson : https://arxiv.org/abs/1710.03667 but not child accessible
+14:51:30	 From Adam Safron : thank you :)
+14:51:36	 From Raphael Gerraty : here's a good blog post on it that shows curve fitting with 1000 dfs and a lot of data: https://windowsontheory.org/2019/12/05/deep-double-descent/
+14:54:22	 From Raphael Gerraty : *not a lot of data!
+14:56:25	 From Adam Safron : (looks like my inner child has some good reading ahead of him; thank you!)
+14:58:08	 From Daina Crafa : Thanks for the great talk!
+14:58:24	 From Raphael Gerraty : Thank you!
+14:59:03	 From Maria Khoudary : it’s like an atlas for the rest of the seminars!
+14:59:26	 From Lara Krisst : Thanks!

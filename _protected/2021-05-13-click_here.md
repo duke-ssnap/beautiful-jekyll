@@ -126,7 +126,28 @@ So sorry about the choppy video! I tried using a different computer for this ses
 
 <p style="font-size:25px">
 <a href="../assets/chat/2021-05-24_philosophy.txt" download="2021-05-24_philosophy.txt">Download chat</a>
+<br>
+<a href="../assets/slides/2021-05-24_epistemology.pdf" download="2021-05-24_epistemology.pdf">Download slides</a>
 </p>
 
 <br>
 <br>
+
+## 05/25/2021: Seminars
+### *fMRI - Scott Huettel*
+<iframe width="500" height="275" src="https://youtube.com/embed/kxWpQ74ZEWo" title="Zoom recording of fMRI seminar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p style="font-size:25px">
+<a href="../assets/chat/2021-05-25_neuroscience.txt" download="2021-05-25_neuroscience.txt">Download chat</a>
+<br>
+<a href="../assets/slides/2021-05-25_fmri.pdf" download="2021-05-25_fmri.pdf">Download slides</a>
+</p>
+<br>
+
+### *Philosophy of Science - Katherine Brading*
+<iframe width="500" height="275" src="https://youtube.com/embed/yJs3W7BCowA" title="Zoom recording of Philosophy of Science seminar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p style="font-size:25px">
+<a href="../assets/chat/2021-05-24_philosophy.txt" download="2021-05-24_philosophy.txt">Download chat</a>
+<br>
+</p>

@@ -1,0 +1,18 @@
+12:16:57	 From Trey Boone : temporal resolution
+12:17:50	 From Anna Ciaunica : What does the data ‘mean’? How much is ‘data’, how much is interpretation?
+12:25:26	 From Zina Ward : Failures of alignment?
+12:25:47	 From Trey Boone : subject movement?
+12:39:42	 From Zina Ward : Way of amplifying signal relative to noise?
+12:40:12	 From Corey Maley, Ph.D. (he/him/his) : Calibrate with PET?
+12:41:41	 From Nick Byrd : No baseline?
+12:47:05	 From Austin A. Baker : How do you know you’ve found the right balance between unpredictability and frequency?
+14:11:37	 From Zina Ward : People were optimistic
+14:17:28	 From Zina Ward : How’d they recruit people to participate in this? Do you think this was a representative sample of neuroimagers?
+14:24:59	 From Austin A. Baker : Related: How do you think is the best way to implement those sorts of permissive incentive structures?
+14:45:16	 From Corey Maley, Ph.D. (he/him/his) : I can tell you what I did, but I’ll let others chime in!
+14:45:31	 From Brian Earp : are you asking ethically about how we should report or not to the participant ?
+14:47:10	 From Brian Earp : maybe without the value judgment: “I see something different or atypical” … ?
+14:47:14	 From Brian Earp : rather than "wrong"
+14:47:40	 From Brian Earp : fair enough :)
+14:47:48	 From Austin A. Baker : It seems better to let them know, even if it distresses them?
+15:01:32	 From Zina Ward : Can you look for regions that are anti-correlated?

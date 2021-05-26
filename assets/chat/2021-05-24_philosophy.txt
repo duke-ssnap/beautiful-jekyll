@@ -1,0 +1,35 @@
+12:04:26	 From Adam Safron : hello. I'm away from my computer so I'm going to need to keep my screen off. sorry about that.
+12:08:17	 From Adam Safron : no formal training, but deeply interested
+12:27:39	 From Adam Safron : self-defeating argument in terms of a necessary heurisric (even if circular)? without induction, how can I probabilistically know what the words of the argument mean?
+12:41:02	 From Adam Safron : it seems we need to accept at least some circular claims as a foundation for there to be any kind of knowledge
+12:42:11	 From Adam Safron : accept those foundational circular claims as kinds of 'axioms', but then reject circularity in moving forward?
+12:53:16	 From Felipe De Brigard : Science is easy!
+12:53:28	 From Jessica Thompson : I mean, in a sense, the concept of black only has meaning relative to non-blackness
+13:02:10	 From Jessica Thompson : I’m imagining a world that only contains two colours and two objects. In that case, it seems easier to see how the observation of a logically equivalent hypothesis would be informative.
+13:08:22	 From Jessica Thompson : I know we’ve moved on but I’m still thinking about Hempel’s paradox. It seems to be a parallel to the Monty Hall Problem. You know the one with the goats and car behind three doors on the game show?
+13:14:42	 From Lara Krisst : Pushing back on the problem of induction -
+13:15:07	 From Lara Krisst : The future will be like the past
+13:16:35	 From Felipe De Brigard : https://www.nature.com/articles/s42256-020-00266-y.epdf?sharing_token=tf2AjxdyxaCpRZDh-bgry9RgN0jAjWel9jnR3ZoTv0PIZwnfXXIXpRQcD8xNIztDbtfVqTyBDH9X-OOXzY7eZ-IxEmR2Hp4l-jkk7SsFNfq5YF28S1ed3ku5PhVGAWq8CU6EhCQXTsZtqXhxceo1GCaH5BpK4cqsUrQ8Mbf4UeU%3D
+13:17:23	 From Raphael Gerraty : it seems like what's missing from grue is a notion of severity or falsifiability?
+13:22:10	 From Maria Khoudary : can you put the name of the book and the chapter in the chat?
+13:22:23	 From Felipe De Brigard : Fact, fiction and forecast
+13:36:20	 From Megha Chawla (she/her)  To  Maria Khoudary(privately) : Do you also by any chance hear like another recording or something of ben speaking?
+13:36:37	 From Maria Khoudary  To  Megha Chawla (she/her)(privately) : hmm no i don’t
+13:36:39	 From Megha Chawla (she/her)  To  Maria Khoudary(privately) : Like things he said previously?!
+13:36:42	 From Megha Chawla (she/her)  To  Maria Khoudary(privately) : Ok so weird
+13:36:48	 From Megha Chawla (she/her)  To  Maria Khoudary(privately) : Ok im going to leave and come back
+13:36:50	 From Maria Khoudary  To  Megha Chawla (she/her)(privately) : i do remember hearing an echo of myself when i was talking to you on kumospace
+13:36:53	 From Maria Khoudary  To  Megha Chawla (she/her)(privately) : sounds good!
+14:00:53	 From Jessica Thompson : People choose priors for lots of pragmatic reasons, I’d think
+14:01:28	 From Raphael Gerraty : exactly!
+14:08:33	 From Felipe De Brigard : That has been my experience, lol
+14:09:24	 From Jenn Lee : Tom Griffiths: resource rationality
+14:50:37	 From Benjamin Eva, Ph.D. : https://arxiv.org/abs/1607.00180
+14:54:10	 From Jessica Thompson : “formal epistemology” as opposed to what? What is informal epistemology?
+14:54:55	 From Felipe De Brigard : Not using formal/mathematical methods
+14:55:14	 From Felipe De Brigard : Good old discussions about what the nature of knowledge is, what is a belief, etc.
+15:02:27	 From Lara Krisst : Thank you!
+15:02:32	 From Raphael Gerraty : Thanks!
+15:02:54	 From Daina Crafa : Thanks so much! This was a great talk!
+15:02:54	 From Jessica Thompson : Thanks! Was fun
+15:02:59	 From Adam Safron : Thank you for this great lecture.
