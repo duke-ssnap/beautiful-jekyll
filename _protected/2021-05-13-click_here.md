@@ -25,6 +25,8 @@ Jump to: [Week One](#week-one) \| [Week Two](#week-two) \| [Week Three](#week-th
 
 <p style="font-size:25px">
 <a href="../assets/chat/2021-05-19_neuroscience.txt" download="2021-05-19_neuroscience.txt">Download chat</a>
+<br>
+<a href="../assets/slides/2021-05-19_neurobiology.pdf" download="2021-05-19_neurobiology.pdf">Download slides</a>
 </p>
 
 Sorry the video got cut off! Tried out a compression software and messed around with the settings too much.
@@ -49,6 +51,8 @@ Sorry the video got cut off! Tried out a compression software and messed around 
 
 <p style="font-size:25px">
 <a href="../assets/chat/2021-05-20_neuroscience.txt" download="2021-05-20_philosophy.txt">Download chat</a>
+<br>
+<a href="../assets/slides/2021-05-20_neuroanatomy.pdf" download="2021-05-20_neuroanatomy.pdf">Download slides</a>
 </p>
 
 <br>
@@ -148,6 +152,25 @@ So sorry about the choppy video! I tried using a different computer for this ses
 <iframe width="500" height="275" src="https://youtube.com/embed/yJs3W7BCowA" title="Zoom recording of Philosophy of Science seminar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p style="font-size:25px">
-<a href="../assets/chat/2021-05-24_philosophy.txt" download="2021-05-24_philosophy.txt">Download chat</a>
+<a href="../assets/chat/2021-05-25_philosophy.txt" download="2021-05-25_philosophy.txt">Download chat</a>
 <br>
 </p>
+
+## 05/26/2021: Seminars
+### *TMS - Greg Appelbaum*
+<iframe width="500" height="275" src="https://youtube.com/embed/Udw6MuEOxhk" title="Zoom recording of TMS seminar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p style="font-size:25px">
+<a href="../assets/chat/2021-05-26_neuroscience.txt" download="2021-05-26_neuroscience.txt">Download chat</a>
+</p>
+<br>
+
+### *Philosophy of Biology - Alex Rosenberg*
+<iframe width="500" height="275" src="https://youtube.com/embed/TPBzgYplR2s" title="Zoom recording of Philosophy of Biology seminar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p style="font-size:25px">
+<a href="../assets/chat/2021-05-26_philosophy.txt" download="2021-05-26_philosophy.txt">Download chat</a>
+<br>
+<a href="../assets/slides/2021-05-26_philbio.pdf" download="2021-05-26_philbio.pdf">Download slides</a>
+</p>
+<br><br>
