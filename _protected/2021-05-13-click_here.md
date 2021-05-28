@@ -6,6 +6,10 @@ subtitle: ""
 
 Jump to: [Week One](#week-one) \| [Week Two](#week-two) \| [Week Three](#week-three)
 
+## Grant writing
+Link to Zoom recording: <a href="https://duke.zoom.us/rec/play/tFiwABLpcFQqNvYcCg3FfYGmNYt-xX9Gi_TspNUQcVGEISShUuTSs0KWsxFAxWZ3sV0Ve3AgjkxxGy1B.m6W4SVyHb4SAisAp?continueMode=true&_x_zm_rtaid=xZaRcaZKSQCG5E1RJUJ1MA.1622237372027.c624ab9394ddae0f3badf7f6eb121ea5&_x_zm_rhtaid=203">here!</a>
+<a href="../assets/slides/grant_writing.pdf" download="grant_writing.pdf">Download slides</a>
+
 
 # Week One
 ## 05/18/2021: Introductions
@@ -162,6 +166,8 @@ So sorry about the choppy video! I tried using a different computer for this ses
 
 <p style="font-size:25px">
 <a href="../assets/chat/2021-05-26_neuroscience.txt" download="2021-05-26_neuroscience.txt">Download chat</a>
+<br>
+<a href="../assets/slides/2021-05-26_tms.pdf" download="2021-05-26_tms.pdf">Download slides</a>
 </p>
 <br>
 
@@ -174,3 +180,41 @@ So sorry about the choppy video! I tried using a different computer for this ses
 <a href="../assets/slides/2021-05-26_philbio.pdf" download="2021-05-26_philbio.pdf">Download slides</a>
 </p>
 <br><br>
+
+## 05/27/2021: Seminars
+### *Statistics - Greg Samanez-Larkin*
+<iframe width="500" height="275" src="https://youtube.com/embed/VfAWOKCaH9E" title="Zoom recording of Statistics seminar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p style="font-size:25px">
+<a href="../assets/chat/2021-05-27_neuroscience.txt" download="2021-05-27_neuroscience.txt">Download chat</a>
+</p>
+<br>
+
+### *Metaphysics - David Robb*
+<iframe width="500" height="275" src="https://youtube.com/embed/XNFVMjNNnxI" title="Zoom recording of Metaphysics seminar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p style="font-size:25px">
+<a href="../assets/chat/2021-05-27_philosophy.txt" download="2021-05-27_philosophy.txt">Download chat</a>
+</p>
+Will upload the handout soon
+<br>
+<br>
+
+## 05/28/2021: Seminars
+### *Computational Neuroscience - John Pearson*
+<iframe width="500" height="275" src="https://youtube.com/embed/SesK16nQkAc" title="Zoom recording of Computational Neuroscience seminar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p style="font-size:25px">
+<a href="../assets/chat/2021-05-28_neuroscience.txt" download="2021-05-28_neuroscience.txt">Download chat</a>
+</p>
+<br>
+<br>
+
+### *Philosophy of Mind - Carla Merino-Rajme*
+<iframe width="500" height="275" src="https://youtube.com/embed/HRLAAaci7dk" title="Zoom recording of Philosophy of Mind seminar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p style="font-size:25px">
+<a href="../assets/chat/2021-05-28_philosophy.txt" download="2021-05-28_philosophy.txt">Download chat</a>
+</p>
+<br>
+<br>

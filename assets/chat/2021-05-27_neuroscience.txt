@@ -1,0 +1,22 @@
+11:08:42	 From Maria Khoudary  To  Perry Zurn(privately) : sorry about that! thanks for the note
+11:09:00	 From Perry Zurn  To  Maria Khoudary(privately) : No problem! Love me some metaphysics anyway :)
+11:33:12	 From Corey Maley, Ph.D. (he/him/his) : A bimodal distribution!
+11:33:16	 From Brian Earp : hehe
+11:47:00	 From Brian Earp : p values cannnnnnnnnnnnnn be useful, just if they’re not over-interpreted, right?? (or used as a publication criterion etc.) … ?
+11:57:31	 From Nick Byrd : The evidence of widespread misunderstanding of “significance” and p-values continues to be replicated (as recently as 2019): https://byrdnick.com/archives/15276/the-meaning-of-statistical-significance-and-of-p-values
+12:03:58	 From Nick Byrd : For those wondering about Greg’s philosophy of inferential stats: It’s referred to as “The New Statistics” by Geoff Cummings and colleagues:   Cumming, G. (2013). Understanding The New Statistics: Effect Sizes, Confidence Intervals, and Meta-Analysis. Routledge.
+ Cumming, G. (2014). The New Statistics: Why and How. Psychological Science, 25(1), 7–29. https://doi.org/10.1177/0956797613504966
+ Cumming, G., & Calin-Jageman, R. (2016). Introduction to the New Statistics: Estimation, Open Science, and Beyond. Routledge.
+12:19:05	 From Gregory Samanez-Larkin (he/they) : Anyone who wants to try doing what I’m doing in JASP, you can download here: https://jasp-stats.org/download/
+12:23:46	 From Nick Byrd : Are the data also available online?
+12:24:14	 From Gregory Samanez-Larkin (he/they) : https://duke.box.com/s/0fahb6duml25nto611sm06ubf46fsktl
+12:25:58	 From Nick Byrd : Got it.
+13:26:49	 From Zina Ward : Doesn’t control for brain size
+13:26:55	 From Brian Earp : +1
+13:37:22	 From Zina Ward : T-test on %?
+13:54:34	 From Maria Khoudary  To  Walter Sinnott-Armstrong(privately) : reminder just to leave the breakout and not end the meeting when the discussion is over!
+13:55:00	 From Nick Byrd : FYI: Luis Pessoa is giving a talk at 10am EDT tomorrow via Fabrizio et al.’s Neural Mechanisms webinar: https://www.timeanddate.com/worldclock/converter.html?iso=20210528T140000&p1=tz_gmt&p2=tz_cest&p3=4878
+13:55:11	 From Walter Sinnott-Armstrong  To  Maria Khoudary(privately) : Will do. Thanks for the reminder.
+13:57:35	 From Fabrizio Calzavarini : Thanks, Nick! That's the link for Pessoa's talk: https://unito.webex.com/unito-en/onstage/g.php?MTID=e942bd65d102129b1adeccbe315eb4e50
+13:58:03	 From Nick Byrd : Whoops. Thx
+13:58:24	 From Fabrizio Calzavarini : ;-)
