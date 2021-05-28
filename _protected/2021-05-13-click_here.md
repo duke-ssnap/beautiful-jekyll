@@ -12,7 +12,7 @@ Link to Zoom recording: <a href="https://duke.zoom.us/rec/play/tFiwABLpcFQqNvYcC
 <br>
 <a href="../assets/slides/grant_writing.pdf" download="grant_writing.pdf">Download slides</a>
 </p>
-
+<br><br><br>
 
 # Week One
 ## 05/18/2021: Introductions
