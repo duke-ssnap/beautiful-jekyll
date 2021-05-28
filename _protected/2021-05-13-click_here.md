@@ -6,9 +6,12 @@ subtitle: ""
 
 Jump to: [Week One](#week-one) \| [Week Two](#week-two) \| [Week Three](#week-three)
 
-## Grant writing
+### Grant writing lecture
+<p style="font-size:25px">
 Link to Zoom recording: <a href="https://duke.zoom.us/rec/play/tFiwABLpcFQqNvYcCg3FfYGmNYt-xX9Gi_TspNUQcVGEISShUuTSs0KWsxFAxWZ3sV0Ve3AgjkxxGy1B.m6W4SVyHb4SAisAp?continueMode=true&_x_zm_rtaid=xZaRcaZKSQCG5E1RJUJ1MA.1622237372027.c624ab9394ddae0f3badf7f6eb121ea5&_x_zm_rhtaid=203">here!</a>
+<br>
 <a href="../assets/slides/grant_writing.pdf" download="grant_writing.pdf">Download slides</a>
+</p>
 
 
 # Week One
@@ -159,6 +162,7 @@ So sorry about the choppy video! I tried using a different computer for this ses
 <a href="../assets/chat/2021-05-25_philosophy.txt" download="2021-05-25_philosophy.txt">Download chat</a>
 <br>
 </p>
+<br><br>
 
 ## 05/26/2021: Seminars
 ### *TMS - Greg Appelbaum*
@@ -195,10 +199,11 @@ So sorry about the choppy video! I tried using a different computer for this ses
 
 <p style="font-size:25px">
 <a href="../assets/chat/2021-05-27_philosophy.txt" download="2021-05-27_philosophy.txt">Download chat</a>
+<br>
+<a href="../assets/slides/2021-05-27_metaphysics.pdf" download="2021-05-27_metaphysics.pdf">Download slides</a>
 </p>
 Will upload the handout soon
-<br>
-<br>
+<br><br>
 
 ## 05/28/2021: Seminars
 ### *Computational Neuroscience - John Pearson*
