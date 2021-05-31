@@ -12,7 +12,15 @@ Link to Zoom recording: <a href="https://duke.zoom.us/rec/play/tFiwABLpcFQqNvYcC
 <br>
 <a href="../assets/slides/grant_writing.pdf" download="grant_writing.pdf">Download slides</a>
 </p>
+<br>
+
+
+### Grant writing Q&A
+<p style="font-size:25px">
+Link to Zoom recording: <a href="https://duke.zoom.us/rec/share/oBZcN5VTgv6uGd3aWHmvjS1FsQqF4Pz1D29NcPK_vJuXHpUdMoJymQP22362EB-t.9rxS0N62-tINwEn-">here!</a>
+</p>
 <br><br><br>
+
 
 # Week One
 ## 05/18/2021: Introductions
@@ -177,7 +185,6 @@ So sorry about the choppy video! I tried using a different computer for this ses
 
 ### *Philosophy of Biology - Alex Rosenberg*
 <iframe width="500" height="275" src="https://youtube.com/embed/TPBzgYplR2s" title="Zoom recording of Philosophy of Biology seminar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <p style="font-size:25px">
 <a href="../assets/chat/2021-05-26_philosophy.txt" download="2021-05-26_philosophy.txt">Download chat</a>
 <br>
@@ -196,7 +203,6 @@ So sorry about the choppy video! I tried using a different computer for this ses
 
 ### *Metaphysics - David Robb*
 <iframe width="500" height="275" src="https://youtube.com/embed/XNFVMjNNnxI" title="Zoom recording of Metaphysics seminar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <p style="font-size:25px">
 <a href="../assets/chat/2021-05-27_philosophy.txt" download="2021-05-27_philosophy.txt">Download chat</a>
 <br>
@@ -208,18 +214,35 @@ Will upload the handout soon
 ## 05/28/2021: Seminars
 ### *Computational Neuroscience - John Pearson*
 <iframe width="500" height="275" src="https://youtube.com/embed/SesK16nQkAc" title="Zoom recording of Computational Neuroscience seminar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <p style="font-size:25px">
 <a href="../assets/chat/2021-05-28_neuroscience.txt" download="2021-05-28_neuroscience.txt">Download chat</a>
 </p>
 <br>
-<br>
 
 ### *Philosophy of Mind - Carla Merino-Rajme*
 <iframe width="500" height="275" src="https://youtube.com/embed/HRLAAaci7dk" title="Zoom recording of Philosophy of Mind seminar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <p style="font-size:25px">
 <a href="../assets/chat/2021-05-28_philosophy.txt" download="2021-05-28_philosophy.txt">Download chat</a>
+<br>
+<a href="../assets/slides/2021-05-28_philmind.pdf" download="2021-05-28_philmind.pdf">Download slides</a>
 </p>
+<br><br>
+
+## 05/29/2021: Interdisciplinary Exchange on Dehumanization - Tamar Gendler & Lasana Harris
+<iframe width="500" height="275" src="https://youtube.com/embed/jgy5--ZL8mU" title="Zoom recording of Interdisciplinary Exchange on Dehumanization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="font-size:25px">
+<a href="../assets/chat/2021-05-29.txt" download="2021-05-29.txt">Download chat</a>
 <br>
+<br><br>
+
+***
+
+<br><br>
+
+# Week 3
+## 05/31/2021: Interdisciplinary Exchange on Attention & Consciousness - Wayne Wu & Liad Mudrik
+<iframe width="500" height="275" src="https://youtube.com/embed/ofzKF6rsigM" title="Zoom recording of Interdisciplinary Exchange on Attention & Consciousness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="font-size:25px">
+<a href="../assets/chat/2021-05-31.txt" download="2021-05-31.txt">Download chat</a>
 <br>
+<br><br>
