@@ -244,5 +244,16 @@ Will upload the handout soon
 <iframe width="500" height="275" src="https://youtube.com/embed/ofzKF6rsigM" title="Zoom recording of Interdisciplinary Exchange on Attention & Consciousness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p style="font-size:25px">
 <a href="../assets/chat/2021-05-31.txt" download="2021-05-31.txt">Download chat</a>
-<br>
+<br><br>
+
+## 06/01/2021: Interdisciplinary Exchange on Emotion - Andrea Scarantino & Kristen Lindquist
+<iframe width="500" height="275" src="https://youtube.com/embed/cSCoB9dydZk" title="Zoom recording of Interdisciplinary Exchange on Emotion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="font-size:25px">
+<a href="../assets/chat/2021-06-01.txt" download="2021-06-01.txt">Download chat</a>
+<br><br>
+
+## 06/02/2021: Interdisciplinary Exchange on Perceptual Representation - Brad Mahon & Susanna Schellenberg
+<iframe width="500" height="275" src="https://youtube.com/embed/t33eZulUeMI" title="Zoom recording of Interdisciplinary Exchange on Perceptual Representation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="font-size:25px">
+<a href="../assets/chat/2021-06-02.txt" download="2021-06-02.txt">Download chat</a>
 <br><br>
