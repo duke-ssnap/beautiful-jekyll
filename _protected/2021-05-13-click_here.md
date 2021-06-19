@@ -6,21 +6,17 @@ subtitle: ""
 
 Jump to: [Week One](#week-one) \| [Week Two](#week-two) \| [Week Three](#week-three)
 
-### Grant writing lecture
-<p style="font-size:25px">
-Link to Zoom recording: <a href="https://duke.zoom.us/rec/play/tFiwABLpcFQqNvYcCg3FfYGmNYt-xX9Gi_TspNUQcVGEISShUuTSs0KWsxFAxWZ3sV0Ve3AgjkxxGy1B.m6W4SVyHb4SAisAp?continueMode=true&_x_zm_rtaid=xZaRcaZKSQCG5E1RJUJ1MA.1622237372027.c624ab9394ddae0f3badf7f6eb121ea5&_x_zm_rhtaid=203">here!</a>
-<br>
-<a href="../assets/slides/grant_writing.pdf" download="grant_writing.pdf">Download slides</a>
-</p>
 <br>
 
-
-### Grant writing Q&A
-<p style="font-size:25px">
-Link to Zoom recording: <a href="https://duke.zoom.us/rec/share/oBZcN5VTgv6uGd3aWHmvjS1FsQqF4Pz1D29NcPK_vJuXHpUdMoJymQP22362EB-t.9rxS0N62-tINwEn-">here!</a>
-</p>
+# Project proposals / grant writing
+<p style="font-size:20px">
+- <a href="https://duke.zoom.us/rec/play/tFiwABLpcFQqNvYcCg3FfYGmNYt-xX9Gi_TspNUQcVGEISShUuTSs0KWsxFAxWZ3sV0Ve3AgjkxxGy1B.m6W4SVyHb4SAisAp?continueMode=true&_x_zm_rtaid=xZaRcaZKSQCG5E1RJUJ1MA.1622237372027.c624ab9394ddae0f3badf7f6eb121ea5&_x_zm_rhtaid=203">Felipe's lecture</a>
+<br>
+- <a href="../assets/slides/grant_writing.pdf" download="grant_writing.pdf">lecture slides</a>
+<br>
+- <a href="https://duke.zoom.us/rec/share/oBZcN5VTgv6uGd3aWHmvjS1FsQqF4Pz1D29NcPK_vJuXHpUdMoJymQP22362EB-t.9rxS0N62-tINwEn-">Zoom Q&A</a>
 <br><br><br>
-
+</p>
 
 # Week One
 ## 05/18/2021: Introductions
@@ -69,7 +65,6 @@ Sorry the video got cut off! Tried out a compression software and messed around 
 <br>
 <a href="../assets/slides/2021-05-20_neuroanatomy.pdf" download="2021-05-20_neuroanatomy.pdf">Download slides</a>
 </p>
-
 <br>
 
 
@@ -82,9 +77,7 @@ Sorry the video got cut off! Tried out a compression software and messed around 
 <br>
 <a href="../assets/slides/2021-05-20_logic.pdf" download="2021-05-20_logic.pdf">Download slides</a>
 </p>
-
-<br>
-<br>
+<br><br>
 
 ## 05/21/2021: Seminars
 ### *Experimental Design & Methods - Jana Schaich Borg*
@@ -95,7 +88,6 @@ So sorry about the choppy video! I tried using a different computer for this ses
 <p style="font-size:25px">
 <a href="../assets/chat/2021-05-21_neuroscience.txt" download="2021-05-21_neuroscience.txt">Download chat</a>
 </p>
-
 <br>
 
 ### *Moral Theory - Christian Miller*
@@ -104,9 +96,7 @@ So sorry about the choppy video! I tried using a different computer for this ses
 <p style="font-size:25px">
 <a href="../assets/chat/2021-05-21_philosophy.txt" download="2021-05-21_philosophy.txt">Download chat</a>
 </p>
-
-<br>
-<br>
+<br><br>
 
 
 ## 05/22/2021: Panel on Evolutionary Origins of Morality - Michael Tomasello & Stephen Darwall
@@ -115,10 +105,7 @@ So sorry about the choppy video! I tried using a different computer for this ses
 <p style="font-size:25px">
 <a href="../assets/chat/2021-05-22_panel.txt" download="2021-05-22_panel.txt">Download chat</a>
 </p>
-
-<br>
-<br>
-
+<br><br>
 
 ***
 
@@ -136,9 +123,7 @@ So sorry about the choppy video! I tried using a different computer for this ses
 <br>
 <a href="../assets/slides/2021-05-24_EEG.pdf" download="2021-05-24_EEG.pdf">Download slides</a>
 </p>
-
 <br>
-
 
 ### *Epistemology - Ben Eva*
 <iframe width="500" height="275" src="https://youtube.com/embed/XUbxALJ9uH8" title="Zoom recording of Epistemology seminar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -148,9 +133,7 @@ So sorry about the choppy video! I tried using a different computer for this ses
 <br>
 <a href="../assets/slides/2021-05-24_epistemology.pdf" download="2021-05-24_epistemology.pdf">Download slides</a>
 </p>
-
-<br>
-<br>
+<br><br>
 
 ## 05/25/2021: Seminars
 ### *fMRI - Scott Huettel*
@@ -163,12 +146,12 @@ So sorry about the choppy video! I tried using a different computer for this ses
 </p>
 <br>
 
+
 ### *Philosophy of Science - Katherine Brading*
 <iframe width="500" height="275" src="https://youtube.com/embed/yJs3W7BCowA" title="Zoom recording of Philosophy of Science seminar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p style="font-size:25px">
 <a href="../assets/chat/2021-05-25_philosophy.txt" download="2021-05-25_philosophy.txt">Download chat</a>
-<br>
 </p>
 <br><br>
 
@@ -256,4 +239,10 @@ Will upload the handout soon
 <iframe width="500" height="275" src="https://youtube.com/embed/t33eZulUeMI" title="Zoom recording of Interdisciplinary Exchange on Perceptual Representation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p style="font-size:25px">
 <a href="../assets/chat/2021-06-02.txt" download="2021-06-02.txt">Download chat</a>
+<br><br>
+
+## 06/03/2021: Interdisciplinary Exchange on Computation & the Brain - Uri Hasson & Gualtiero Piccinini
+<iframe width="500" height="275" src="https://youtube.com/embed/EJ5w6MqRIH4" title="Zoom recording of Interdisciplinary Exchange on Perceptual Representation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="font-size:25px">
+<a href="../assets/chat/2021-06-02.txt" download="2021-06-03.txt">Download chat</a>
 <br><br>

@@ -1,0 +1,25 @@
+12:36:40	 From John : How does your model explain one shot learning? 
+13:16:39	 From Adam Safron : While bidirectional encoders might be a good model of unconscious language processing, might they be unrealistic models of language learning, which is likely accompanied by a good amount of coupling with embodied-simulation/explicit-causal-modeling?
+13:19:34	 From Felipe De Brigard : GP-tea!
+13:19:50	 From Maria Khoudary : @adam I don’t have the intuition that language learning in early life involves any amount of explicit causal modeling. almost definitely involves embodied simulation though!
+13:22:27	 From Adam Safron : (Good point about early causal modeling likely being largely implicit.)
+13:25:24	 From Brian Earp : (that was such a Walter question) : )
+13:44:27	 From Nina Van Rooy : Is what you call variable realizability what others sometimes call robustness?
+14:07:27	 From Jessica Thompson : I don’t understand the according to a rule parat
+14:07:32	 From Jessica Thompson : part*
+14:09:20	 From Felipe De Brigard : Looks like he’s about to tell us?
+14:10:39	 From Corey Maley, Ph.D. (he/him/his) : So just not random?
+14:12:44	 From Raphael Gerraty : what does not random mean? just that there is something else it shares mutual information with?
+14:14:29	 From Felipe De Brigard : I think this is a great question for the Q&A!!
+14:15:02	 From Felipe De Brigard : Raphael, if ok with you, I’ll add you to the queue
+14:15:12	 From Raphael Gerraty : sure
+14:25:18	 From Adam Safron : can we go back to the consciousness slide?
+14:36:44	 From Maria Khoudary : and thank you for giving this talk while you’re sick!!
+15:00:49	 From Jessica Thompson : Maybe a first question here: model of what?
+15:02:10	 From Walter Sinnott-Armstrong, Ph.D. : Good question, Jessica.
+15:02:18	 From Corey Maley, Ph.D. (he/him/his) : Right right.
+15:04:45	 From Jessica Thompson : Evolution isn’t an optimization process
+15:05:36	 From Walter Sinnott-Armstrong, Ph.D. : Right. My sore back teaches me that constantly.
+15:06:20	 From Adam Safron : I wonder lower to middle levels of cortical hierarchies use direct fit as a kind of neural Darwinism, but with large-scale orchestrations by the hippocampal/entorhinal system being more or a scientist for localization and mapping in generalized spaces
+15:12:56	 From Maria Khoudary : we have virtual wine!!
+15:13:29	 From Raphael Gerraty : don't sleep on the bananas
